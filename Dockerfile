@@ -98,6 +98,3 @@ FROM bitnami/cert-manager-webhook:1.7.1-debian-10-r25
 
 # Tags: 1.7.1-debian-10-r24
 FROM bitnami/cert-manager-webhook:1.7.1-debian-10-r24
-
-# Tags: 1.7.1-debian-10-r23
-FROM bitnami/cert-manager-webhook:1.7.1-debian-10-r23
